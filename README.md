@@ -1,4 +1,4 @@
-# Research Repository: Exploring the Haystack Framework for Natural Language Processing in Python
+# Research Repository: Exploring the Haystack Framework in Python
 
 Welcome to the research repository dedicated to the Haystack framework! 🚀
 

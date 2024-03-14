@@ -1,4 +1,4 @@
-# Repositório de Pesquisa: Explorando o Framework Haystack para Processamento de Linguagem Natural em Python
+# Repositório de Pesquisa: Explorando o Framework Haystack em Python
 
 Bem-vindo ao repositório de pesquisa dedicado ao framework Haystack! 🚀
 
